@@ -1,0 +1,192 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "symptoms": "Water-soaked spots on leaves, turning brown and necrotic. Lesions may have a yellow halo.",
+        "causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria.",
+        "treatment": "Apply copper-based fungicides or bactericides. Remove and destroy infected plants."
+    },
+    "Pepper__bell___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Potato___Early_blight": {
+        "symptoms": "Circular, dark lesions on lower leaves, often surrounded by yellowing. Lesions may have a target-like appearance.",
+        "causes": "Caused by the fungus Alternaria solani.",
+        "treatment": "Remove infected leaves. Apply fungicides containing chlorothalonil or copper."
+    },
+    "Potato___Late_blight": {
+        "symptoms": "Dark, water-soaked lesions on leaves, often turning brown and necrotic. White, fluffy growth may appear on the underside of leaves in humid conditions.",
+        "causes": "Caused by the oomycete Phytophthora infestans.",
+        "treatment": "Apply fungicides containing copper or mancozeb. Remove and destroy infected plant debris."
+    },
+    "Potato___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Tomato_Bacterial_spot": {
+        "symptoms": "Dark, water-soaked lesions on leaves, often with a yellow halo. Lesions may coalesce and cause defoliation.",
+        "causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria.",
+        "treatment": "Apply copper-based fungicides or bactericides. Remove and destroy infected plants."
+    },
+    "Tomato_Early_blight": {
+        "symptoms": "Circular, dark lesions on lower leaves, often surrounded by yellowing. Lesions may have a target-like appearance.",
+        "causes": "Caused by the fungus Alternaria solani.",
+        "treatment": "Remove infected leaves. Apply fungicides containing chlorothalonil or copper."
+    },
+    "Tomato_Late_blight": {
+        "symptoms": "Dark, water-soaked lesions on leaves, often turning brown and necrotic. White, fluffy growth may appear on the underside of leaves in humid conditions.",
+        "causes": "Caused by the oomycete Phytophthora infestans.",
+        "treatment": "Apply fungicides containing copper or mancozeb. Remove and destroy infected plant debris."
+    },
+    "Tomato_Leaf_Mold": {
+        "symptoms": "Yellowing and mottling of leaves, often with fuzzy, white growth on the underside of leaves.",
+        "causes": "Caused by the fungus Fulvia fulva (formerly Cladosporium fulvum).",
+        "treatment": "Improve air circulation. Apply fungicides containing copper or chlorothalonil."
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "symptoms": "Dark, circular lesions with white or gray centers on leaves. Lesions may coalesce and cause defoliation.",
+        "causes": "Caused by the fungus Septoria lycopersici.",
+        "treatment": "Remove infected leaves. Apply fungicides containing copper or chlorothalonil."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "symptoms": "Yellowing or stippling of leaves, often with webbing on the underside of leaves.",
+        "causes": "Caused by the spider mite Tetranychus urticae.",
+        "treatment": "Spray with insecticidal soap or neem oil. Introduce natural predators such as predatory mites."
+    },
+    "Tomato__Target_Spot": {
+        "symptoms": "Circular lesions with concentric rings on leaves, often surrounded by yellowing.",
+        "causes": "Caused by the fungus Corynespora cassiicola.",
+        "treatment": "Remove infected leaves. Apply fungicides containing copper or chlorothalonil."
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "symptoms": "Yellowing and curling of leaves, often with stunted growth and reduced fruit yield.",
+        "causes": "Caused by the Tomato yellow leaf curl virus (TYLCV).",
+        "treatment": "Control whiteflies, which spread the virus. Plant resistant varieties."
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "symptoms": "Mottled or mosaic pattern on leaves, often with stunted growth and reduced fruit yield.",
+        "causes": "Caused by the Tomato mosaic virus (ToMV).",
+        "treatment": "No cure available. Remove and destroy infected plants. Control aphids, which spread the virus."
+    },
+    "Tomato_healty": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Raspberry___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Soybean___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Squash___Powdery_mildew": {
+        "symptoms": "White powdery spots on leaves, often with distorted growth.",
+        "causes": "Caused by the fungus Podosphaera xanthii.",
+        "treatment": "Apply fungicides containing sulfur or potassium bicarbonate. Improve air circulation."
+    },
+    "Strawberry___Leaf_scorch": {
+        "symptoms": "Brown or scorched areas on leaf margins, often with browning of leaf tips.",
+        "causes": "Caused by various environmental stress factors, such as drought or excessive heat.",
+        "treatment": "Ensure adequate watering. Provide shade during hot periods."
+    },
+    "Strawberry___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Apple___Apple_scab": {
+        "symptoms": "Dark, scabby lesions on leaves, often with corky texture. Lesions may also appear on fruit.",
+        "causes": "Caused by the fungus Venturia inaequalis.",
+        "treatment": "Apply fungicides containing sulfur or copper. Remove and destroy infected leaves."
+    },
+    "Apple___Black_rot": {
+        "symptoms": "Circular, black lesions on leaves, often with concentric rings. Lesions may also appear on fruit.",
+        "causes": "Caused by the fungus Botryosphaeria obtusa.",
+        "treatment": "Apply fungicides containing chlorothalonil or captan. Prune infected branches."
+    },
+    "Apple___Cedar_apple_rust": {
+        "symptoms": "Yellow-orange spots or lesions on leaves, often with a raised texture. Lesions may produce spores.",
+        "causes": "Caused by the fungus Gymnosporangium juniperi-virginianae.",
+        "treatment": "Apply fungicides containing myclobutanil or tebuconazole. Remove nearby juniper hosts."
+    },
+    "Apple___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Blueberry___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "symptoms": "White powdery spots on leaves, often with distorted growth.",
+        "causes": "Caused by the fungus Podosphaera clandestina.",
+        "treatment": "Apply fungicides containing sulfur or potassium bicarbonate. Improve air circulation."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "symptoms": "Grayish lesions with dark margins on leaves. Lesions may coalesce and cause extensive damage.",
+        "causes": "Caused by the fungus Cercospora zeae-maydis.",
+        "treatment": "Rotate crops. Apply fungicides containing azoxystrobin or propiconazole."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "symptoms": "Orange to brown pustules on leaves, often with raised texture. Pustules may produce spores.",
+        "causes": "Caused by the fungus Puccinia sorghi.",
+        "treatment": "Rotate crops. Apply fungicides containing azoxystrobin or propiconazole."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "symptoms": "Long, elliptical lesions with tan centers on leaves. Lesions may coalesce and cause extensive damage.",
+        "causes": "Caused by the fungus Setosphaeria turcica.",
+        "treatment": "Rotate crops. Apply fungicides containing azoxystrobin or propiconazole."
+    },
+    "Corn_(maize)___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Grape___Black_rot": {
+        "symptoms": "Brown lesions on leaves, often with concentric rings. Lesions may also appear on fruit, causing it to shrivel and rot.",
+        "causes": "Caused by the fungus Guignardia bidwellii.",
+        "treatment": "Apply fungicides containing chlorothalonil or captan. Remove and destroy infected plant parts."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "symptoms": "Brown streaks or lesions in the vascular tissue of shoots. Leaves may turn yellow and drop prematurely.",
+        "causes": "Caused by a complex of fungi, including Phaeoacremonium spp. and Phaeomoniella chlamydospora.",
+        "treatment": "Prune infected parts. Apply fungicides containing propiconazole or fosetyl-aluminum."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "symptoms": "Circular, tan lesions on leaves, often with a darker border. Lesions may coalesce and cause defoliation.",
+        "causes": "Caused by the fungus Isariopsis (=Alternaria) leaf spot.",
+        "treatment": "Prune infected parts. Apply fungicides containing chlorothalonil or mancozeb."
+    },
+    "Grape___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "symptoms": "Yellowing of leaves, often with mottling. Premature fruit drop and decline of tree health.",
+        "causes": "Caused by the bacterium Candidatus Liberibacter spp., transmitted by the Asian citrus psyllid.",
+        "treatment": "Manage psyllid populations. Remove and destroy infected trees."
+    },
+    "Peach___Bacterial_spot": {
+        "symptoms": "Water-soaked lesions on leaves, often with a yellow halo. Lesions may become necrotic and cause defoliation.",
+        "causes": "Caused by the bacterium Xanthomonas arboricola pv. pruni.",
+        "treatment": "Apply copper-based bactericides. Prune infected branches. Avoid overhead irrigation."
+    },
+    "Peach___healthy": {
+        "symptoms": "No visible symptoms. Plants appear healthy.",
+        "causes": "Healthy plant.",
+        "treatment": "No treatment needed."
+    }
+}
